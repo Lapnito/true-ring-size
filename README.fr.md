@@ -165,7 +165,7 @@ Gratuit. Support : tom@lapnito.cz
 **Lapnito Development Studio** (lapnito.cz s.r.o.), un petit studio indépendant en Tchéquie qui crée des apps utilitaires sans pub et respectueuses de la vie privée.
 
 - Support / E-mail : tom@lapnito.cz
-- Plus d'apps iOS : [Lapnito sur l'App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Plus d'apps iOS : [Lapnito sur l'App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Plus d'apps Android : [Lapnito sur Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -195,4 +195,4 @@ Gratuit. Support : tom@lapnito.cz
 
 ---
 
-<p align="center">Créé avec ❤️ en Tchéquie par <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">Créé avec ❤️ en Tchéquie par <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>

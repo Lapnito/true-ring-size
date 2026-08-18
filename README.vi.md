@@ -165,7 +165,7 @@ Miễn phí. Hỗ trợ: tom@lapnito.cz
 **Lapnito Development Studio** (lapnito.cz s.r.o.), một studio độc lập nhỏ ở Séc, tạo các ứng dụng tiện ích không quảng cáo, ưu tiên quyền riêng tư.
 
 - Hỗ trợ / Email: tom@lapnito.cz
-- Thêm ứng dụng iOS: [Lapnito trên App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Thêm ứng dụng iOS: [Lapnito trên App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Thêm ứng dụng Android: [Lapnito trên Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -195,4 +195,4 @@ Miễn phí. Hỗ trợ: tom@lapnito.cz
 
 ---
 
-<p align="center">Được tạo với ❤️ tại Séc bởi <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">Được tạo với ❤️ tại Séc bởi <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>

@@ -165,7 +165,7 @@
 **Lapnito Development Studio** (lapnito.cz s.r.o.), चेकिया का एक छोटा स्वतंत्र स्टूडियो जो विज्ञापन-रहित, निजता-प्रथम उपयोगी ऐप बनाता है।
 
 - सहायता / ईमेल: tom@lapnito.cz
-- और iOS ऐप: [App Store पर Lapnito](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- और iOS ऐप: [App Store पर Lapnito](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - और Android ऐप: [Google Play पर Lapnito](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -195,4 +195,4 @@
 
 ---
 
-<p align="center">चेकिया में ❤️ के साथ बनाया गया — <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">चेकिया में ❤️ के साथ बनाया गया — <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>

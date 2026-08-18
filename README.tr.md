@@ -165,7 +165,7 @@
 **Lapnito Development Studio** (lapnito.cz s.r.o.), Çekya'da reklamsız, gizlilik odaklı yardımcı uygulamalar geliştiren küçük bağımsız bir stüdyo.
 
 - Destek / E-posta: tom@lapnito.cz
-- Daha fazla iOS uygulaması: [App Store'da Lapnito](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Daha fazla iOS uygulaması: [App Store'da Lapnito](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Daha fazla Android uygulaması: [Google Play'de Lapnito](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -195,4 +195,4 @@
 
 ---
 
-<p align="center">Çekya'da ❤️ ile yapıldı: <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">Çekya'da ❤️ ile yapıldı: <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>
